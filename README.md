@@ -7,4 +7,6 @@ berikut adalah harga dari kamar-kamar yang kami punya:
 3. Taman W5,000,000
 4. Bar W1,250,000
 
+Fork dari patrick :)
+
 Selamat menginap!
